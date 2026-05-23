@@ -8,6 +8,12 @@
   <img src="https://img.shields.io/badge/Aesthetics-Premium-magenta?style=for-the-badge" alt="Aesthetics" />
 </p>
 
+<p align="center">
+  <a href="https://fill-ai-browser-extension-demo.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Vercel-Live%20Showcase-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Live Showcase" />
+  </a>
+</p>
+
 ---
 
 > **Experience the future of seamless autofill.** A high-fidelity, interactive showcase and marketing hub engineered for **FillAI** — the premium browser extension that breathes life and automation into form inputs.
