@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://https://fill-ai-extension.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://fill-ai-extension.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Vercel-Live%20Showcase-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Live Showcase" />
   </a>
 </p>
