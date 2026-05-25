@@ -193,13 +193,5 @@ We welcome contributions to elevate this product showcase! Please adhere to our 
 ---
 
 <p align="center">
-  <b>Designed with absolute ⚡ energy by <a href="https://github.com/google-deepmind/antigravity">Antigravity</a></b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Powered%20By-Antigravity-blueviolet?style=for-the-badge&logo=google-cloud" alt="Powered By Antigravity" />
-</p>
-
-<p align="center">
   <sub>© 2026 FillAI Showcase. All rights reserved. Built with pride for ultimate digital aesthetics.</sub>
 </p>
